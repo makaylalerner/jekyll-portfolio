@@ -1,17 +1,38 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Associate Analytics Engineer, Branch Insurance
+  from: 2023
+  to: 2023
+  description: Delivered automated self-service reporting solutions for stakeholders on accounting and operations teams using Qlik dashboards, auto- refreshing Google Sheets, and materialized data views in BigQuery
+               Provided data stewardship and guidance for the data pipeline, assisting users in navigating towards the appropriate data source
+               Engaged in direct problem-solving with stakeholders, gathering business requirements and ensuring data needs were met effectively 
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Student, University of Tennessee
+  from: 2019
+  to: 2023
+  description: Graduated Magna Cum Laude with a Bachelor of Science in Information Sciences
+               Data, Information Management, and Analytics Concentration
+               Statistics Minor
+
+- title: Data Analytics Intern, Branch Insurance
+  from: 2022
+  to: 2023
+  description: Aided senior analysts and engineers with ad-hoc reporting, data quality monitoring, warehouse view maintenance, and migrating reports from Looker to Qlik
+               Initiated and established a standard practice for documentation for file integrations and API calls on a project level, clarifying their role in the existing data pipeline
+
+
+- title: Data Analytics Intern, U.S. Bank
+  from: 2022
+  to: 2022
+  description: Spearheaded an initiative to build a comprehensive data dictionary, harmonizing data attributes across multiple sources, including JSON, XML, CSV, and Excel spreadsheets
+               Enhanced fraud detection models through key KPI analysis in Python
+               Participated in user acceptance testing of user interfaces and provided thorough business requirements documentation
+
+
+- title: Undergraduate Research Assistant, UTIA
+  from: 2020
+  to: 2022
+  description: Monitored and managed program growth through extensive community networking
+               Communicated complex  data findings through reports, scholarly articles, and conference presentations 
+               Managed the entry, analysis, and results from survey and census data to explore socioeconomic conditions of regions served by the programs
+               Leveraged VBA to automate reporting for the yearly Ability to Pay Index and Digital Divide Index across the state
+
