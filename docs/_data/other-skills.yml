@@ -1,7 +1,138 @@
-- name: Adobe Photoshop
+- name: Qlik
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Tableau
   percentage: 90
   color: success
+
+- name: Looker
+  percentage: 90
+  color: success
+
+- name: Power BI
+  percentage: 90
+  color: success
+
+- name: RShiny
+  percentage: 90
+  color: success
+
+- name: matplotlib
+  percentage: 90
+  color: success
+
+- name: Seaborn
+  percentage: 90
+  color: success
+
+- name: regressions
+  percentage: 90
+  color: success
+
+- name: time series
+  percentage: 90
+  color: success
+
+- name: forecasting
+  percentage: 90
+  color: success
+
+- name: data modeling
+  percentage: 90
+  color: success
+
+- name: relational databases
+  percentage: 90
+  color: success
+
+- name: machine learning
+  percentage: 90
+  color: success
+
+- name: statsmodels
+  percentage: 90
+  color: success
+
+- name: tinyverse
+  percentage: 90
+  color: success
+
+- name: Pandas
+  percentage: 90
+  color: success
+
+- name: NumPy
+  percentage: 90
+  color: success
+
+- name: SciPy
+  percentage: 90
+  color: success
+
+- name: D3
+  percentage: 90
+  color: success
+
+- name: SciKit-Learn
+  percentage: 90
+  color: success
+
+- name: Agile
+  percentage: 90
+  color: success
+
+- name: ETL
+  percentage: 90
+  color: success
+
+- name: Postgres
+  percentage: 90
+  color: success
+
+- name: BigQuery
+  percentage: 90
+  color: success
+
+- name: Oracle
+  percentage: 90
+  color: success
+
+- name: MS SQL
+  percentage: 90
+  color: success
+
+- name: Excel 
+  percentage: 90
+  color: success
+
+- name: BigQuery
+  percentage: 90
+  color: success
+
+- name: Jupyter
+  percentage: 90
+  color: success
+
+- name: VS Code
+  percentage: 90
+  color: success
+
+- name: Colaboratory
+  percentage: 90
+  color: success
+
+- name: Git
+  percentage: 90
+  color: success
+
+- name: dbt
+  percentage: 90
+  color: success
+
+- name: Confluence/Jira
+  percentage: 90
+  color: success
+
+
+
