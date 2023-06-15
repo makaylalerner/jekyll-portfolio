@@ -2,35 +2,3 @@
 
 
 
-
-- name: Agile
-  percentage: 90
-  color: success
-
-
-- name: Jupyter
-  percentage: 90
-  color: success
-
-- name: VS Code
-  percentage: 90
-  color: success
-
-- name: Colaboratory
-  percentage: 90
-  color: success
-
-- name: Git
-  percentage: 90
-  color: success
-
-- name: dbt
-  percentage: 90
-  color: success
-
-- name: Confluence/Jira
-  percentage: 90
-  color: success
-
-
-
