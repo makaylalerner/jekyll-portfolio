@@ -1,0 +1,32 @@
+
+- name: Qlik
+  percentage: 95
+  color: info
+
+- name: Tableau
+  percentage: 90
+  color: success
+
+- name: Power BI
+  percentage: 90
+  color: success
+
+- name: Excel 
+  percentage: 90
+  color: success
+
+- name: RShiny
+  percentage: 90
+  color: success
+
+- name: Looker
+  percentage: 90
+  color: success
+
+- name: matplotlib
+  percentage: 90
+  color: success
+
+- name: Seaborn
+  percentage: 90
+  color: success
