@@ -1,0 +1,19 @@
+- name: relational databases
+  percentage: 90
+  color: success
+
+- name: ETL
+  percentage: 90
+  color: success
+
+- name: BigQuery
+  percentage: 90
+  color: success
+
+- name: Oracle
+  percentage: 90
+  color: success
+
+- name: MS SQL
+  percentage: 90
+  color: success
