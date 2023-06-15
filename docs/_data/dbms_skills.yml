@@ -17,3 +17,7 @@
 - name: MS SQL
   percentage: 90
   color: success
+
+- name: dbt
+  percentage: 90
+  color: success

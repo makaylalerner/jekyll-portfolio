@@ -30,3 +30,7 @@
 - name: Seaborn
   percentage: 90
   color: success
+
+- name: D3
+  percentage: 90
+  color: success
